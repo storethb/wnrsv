@@ -1,0 +1,22 @@
+name: Free Kali Linux
+
+on: 
+  workflow_dispatch:
+    inputs:
+      chrome_access_code:
+        description: Copy your chrome remote access code
+        required: true
+      pin:
+        description: Enter your 6 numbers pin
+        required: true
+jobs:
+  build:
+    runs-on: kali-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run settting file
+        run: |
+          sudo bash ./linux_config/setting.sh
+          ${{ github.event.inputs.chrome_access_code }} -pin=${{ github.event.inputs.pin }}
+      - name: Kali ready to go 
+        run: sleep 1d
