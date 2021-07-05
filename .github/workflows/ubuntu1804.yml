@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       chrome_access_code:
-        description: Copy your chrome remote access code here
+        description: Copy your chrome remote access code
         required: true
       pin:
         description: Enter your 6 numbers pin
