@@ -10,7 +10,7 @@
 - 39GB Hard Disk (Ubuntu), 74GB Hard Disk (Windows Server)
 
 ## 3. Let's get started
-- It's quite easy for anyone done it before (:lol) but if it's your first time, watch [this short video](https://youtu.be/iiA0NSTYNnw).
+- It's quite easy for anyone done it before (:lol) but if it's your first time, watch [this short video](https://youtu.be/FCHo8d_o6Hw).
 - Link Chrome remote code: https://remotedesktop.google.com/headless
 
 ## 4. Feedback
