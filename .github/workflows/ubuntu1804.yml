@@ -1,4 +1,4 @@
-name: Free Ubuntu 20.04
+name: Free Ubuntu 18.04
 
 on: 
   workflow_dispatch:
@@ -11,7 +11,7 @@ on:
         required: true
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
       - name: Run settting file
