@@ -1,4 +1,4 @@
-name: Free Windows Server 2019
+name: Free Windows Server 2016
 
 on: 
   workflow_dispatch:
