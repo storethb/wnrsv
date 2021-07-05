@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 - This project comes from Github-hosted runner, open for everyone who wants to learn about Windows, Linux, MacOS system. 
-- In this repository, I want to give you free Ubuntu (18.04, 20.04) and Windows Server (2016, 2019). You can test softwares, learn something new or even make use of high network speed and anonymous IP address to do something "unpredictable" ... It's up to you :xD
+- In this repository, I want to give you free **Ubuntu (18.04, 20.04)** and **Windows Server (2016, 2019)**. You can test softwares, learn something new or even make use of high network speed and anonymous IP address to do something "unpredictable" ... It's up to you :xD
 
 ## 2. About this VPS
 - 7GB RAM
